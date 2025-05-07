@@ -9,6 +9,6 @@ float area (){
 }
 
 int main (){                            // main function
-    float area ();
+     area ();
     return 0;
 }
