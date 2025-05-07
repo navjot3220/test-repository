@@ -1,5 +1,5 @@
 #include<stdio.h>
-#define pie 3.14159265359 //more precise value 
+#define pie 3.14 //more precise value 
 
 float area (){
     double radius = 5;
